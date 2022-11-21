@@ -60,7 +60,7 @@ VB种类：CVVCJPN
 
 用在使用该音源时，不得有违反法律、危害网络安全或损害第三方合法权益之行为，否则由此生的后果均由用自己承担。
 
-
+download：https://github.com/Andox-Lopez/Yari-Riako-Utau-Voicebank/releases
 
 联系方式：Karandoxese@outlook.com、399783956@qq.com
 
