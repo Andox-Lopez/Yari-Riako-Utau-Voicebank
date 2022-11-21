@@ -2,7 +2,7 @@ UTAU CVVCJPN VoiceBank
 
 Copyright c 2022 KarashP&CyberGaryBread.All rights reserved.
 
-
+· 本声库编码为GB2312，如需UTAU使用请自行使用菲菲更名宝贝™进行文件编码及oto.ini文件编码转换，或下载For Utau包
 
 注意：使用本音源进行创作时必须遵守使用条款
 
