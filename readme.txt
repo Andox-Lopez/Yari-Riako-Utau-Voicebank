@@ -1,73 +1,72 @@
 UTAU CVVCJPN VoiceBank
 
-
 Copyright c 2022 KarashP&CyberGaryBread.All rights reserved.
 
 
 
-æ‹²å „ä¸—å·Šæ¢¡æ®å£’å°®æ‘å³´æ†‚å¶Œå¸ªæ˜æµå¼²åº£å·Šæ¢¡ç€¶å¨‚
+’ˆÓFŽg—p–{‰¹Œ¹is‘nìŽž•K{…ŽçŽg—pžŠŠ¼
 
-é†•å·Šæ¢¡å¹°å·Šæ¢¡æ¤†æ”ªæ®å£’å°®ä¸†æ‡„å¸‡å Šå·Šæ¢¡å¹°æ„™åº´åŸ²å£“ç€¶å¨‚.
+ácŽg—pŽÒŽg—p—¹”‡“…‰¹Œ¹C‘¦Ž‹ˆ×Žg—pŽÒÚŽóˆÈ‰ºžŠŠ¼.
 
-æ·ºæ£¦ æ£Ÿåž·å·•Yari Riako_CVVCJPN
+œ\—  —ˆŸŽqYari Riako_CVVCJPN
 
-åº±æ„­æ—•å¿¢å§¶å¹±å£“åµ¹æ¶¹å·Šæ¢¡Yari Riako_CVVCJPN.
+Žñæ”ñíŠ´ŽÓ‰ºÚ•ÀŽg—pYari Riako_CVVCJPN.
 
-å£§åº¤æ€£æ‡…ä¸—
+‰ÌŽèM‘§F
 
-æŸ¤éˆä¸—Yari Riako
+–¼âiFYari Riako
 
-æ“­é™»ä¸—æ›æž¾
+”Nê”F•Û–§
 
-æŽå´…ä¸—162
+g‚F162
 
-é–¾å»³ä¸—æ›æž¾
+é“dF•Û–§
 
-VBåº¬æ¤¶ä¸—CVVCJPN
+VBŽí—ÞFCVVCJPN
 
-å£’å¥’æ¾¤ä¸—3å£’å¥’
+‰¹ŠKÉF3‰¹ŠK
 
-æ‹žæ“µæ–ä¸—CyberGaryBread
+’†”VlFCyberGaryBread
 
-å°¨å£’æ„æŽ•ä¸—KarashPä¸„æŸå°·å¯§
+Œ´‰¹Ý’èFKarashPA–³ŒÀŒŽ
 
-å·Šæ¢¡ç€¶å¨‚ä¸—
+Žg—pžŠŠ¼F
 
-?å£œåŸ²å«€å½å°¨å£’æ‘æ®‘å£’æ‘.
+E ‰ÂˆÈ‹ŽœŒ´‰¹“Iš„‰¹“™.
 
-?åµ¼å°¨æ¡³OTOæ‘å©Žæ…´å¿‹åŸªå¾ å±„æ–å©Œå²²å»‹å¤µ.æ‰æƒ€ä¸†æƒªæ™„æ¢«æ“‡å¸«å¹„æ™å£’å°®.
+E ÝŒ´—LOTO“IŠî‘bãˆÂÆŒÂlŠìDC‰ü.’A¥C¿•s—v“ñŽŸá¢•z‰¹Œ¹.
 
-?å¬›å·­æ´ˆæš¥æ®æš¥å¯©æ¦“æ®¼æ›…æš¥å¯©æ‘å³´å»‹å¤µä¸†å¬›å·­åµžå¸«å¹„æ™.
+E ‹ÖŽ~›”•¶–{•¶Œ˜aš¤•Ð•¶ŒisC‰üC‹ÖŽ~ÄŽŸá¢•z.
 
-?åµ¼å¸‡æ˜¿æ‘æ‹žå·Šæ¢¡å¸ªæ™„å»€æ¢«æ‘¿æš¿æ¥›æ£ˆ.
+E ÝŽ‹•p“™’†Žg—pŽž•sŽù—v“Á•Ê—ü—.
 
-?å¬›å·­æ£™æ¢¡å¥©å£’å°®æƒ‚å¶Œå ˜æ–€æ®¸å£ æœ„æ£©æœ„å©¯åŸ¥éŽˆæ–Šæ‘´îŒ‰æŽ™æ…„æ‘å£§å¬‹.
+E ‹ÖŽ~—˜—pŠY‰¹Œ¹»ìˆá”½š ‰Æ–@—¥–@‹Kˆ½æ\”Æ“¹úº’êü“I‰Ì‹È.
 
-?å¬›å·­æ£™æ¢¡å¥©å£’å°®æƒ‚å¶Œæ›ªå¨·è¾”å¼¼ä¸†æ€“å¿£ä¸†å©¼æŠºä¸†å¬ŒæŠ‚å»†å«µåŸ¥æœ¶æ¤¡ä¸ æ¢•æ‘å£§å¬‹.
+E ‹ÖŽ~—˜—pŠY‰¹Œ¹»ì•ïŠÜàÎåöCFîC‹S’{C‹É’[@‹³ˆ½–\—ÍH—e“I‰Ì‹È.
 
-?å¼Œæ§¹å½œå¬ˆæ šæ‘å¸¶æ£™æ¢¡å¥©å£’å°®åŸ¥å£’å°®æŸ¤éˆå¸ªä¸†æ¡³å´˜æŠ¦æ¶¹æƒ‡æ‘¼å£’å°®æƒ‚å¶Œæ›½æ‘¨å „æ‘åªŠæŸ‹.
+E o‰—¤‹Æ–Ú“IŽ§—˜—pŠY‰¹Œ¹ˆ½‰¹Œ¹–¼âiŽžC—L’m•Àª“¾‰¹Œ¹»ì•û“¯ˆÓ“I‹`–±.
 
-?åµ¼æƒ‚å¶Œæ±å½žå¸ªæƒªæ‹²å „å£§å¬‹æ‘æ–‰ç‚£æ ¤æˆ£.
+E Ý»ì–|¥Žž¿’ˆÓ‰Ì‹È“I”ÅžÜ–â‘è.
 
-*å·Šæ¢¡CVVCå£’å°®æ˜æµæ¼–å£’ä¸†æ˜æµæ¼–å£’ä¸†æ˜æµæ¼–å£’ä¸¡
-
-
-
-åµŸå²ªæ“›å£¥æ™„æ“»æ„™åº´åŸ²å¿‹ç€¶å¨‚ä¸†å°¨å¶Œå¹°ä¹®KarashPä¸„CyberGaryBreadä¹¯æ¡³ç‚£æŸç€¶å¯©æŽ†å·­Yari Riakoæ‘å·Šæ¢¡ç‚£.
-
-æŸ¶æ„‘æ°µæŸ§
-
-æ¢¡åµ¼å·Šæ¢¡å¥©å£’å°®å¸ªä¸†æ™„æ‘¼æ¡³å ˜æ–€æœ„æ£©ä¸„å©‹å¥žæ æ£ˆåŸ¨æ…¡åŸ¥æ‡å¥žæˆžå¶°æ›½å´Œæœ„ç‚£å¡¿æ“µå³´å Šä¸†æ–²æ‡ƒæ¡¼å´¯æƒ—æ‘å²ªå£¥å¬’æ¡¼æ¢¡å¸ºå±“å½¸æ¼—ä¸…
+*Žg—pCVVC‰¹Œ¹•K{]‰¹C•K{]‰¹C•K{]‰¹I
 
 
 
-æ¥›å®¯æ›½å¹ƒä¸—Karandoxese@outlook.comä¸„399783956@qq.com
+ÅŒã”@‰Ê•s”\ÚŽóˆÈãžŠŠ¼CŒ´ìŽÒiKarashPACyberGaryBreadj—LžÜ–³žŠŒ’âŽ~Yari Riako“IŽg—pžÜ.
 
-å§¶å¹±å·Šæ¢¡
+–ÆÓãß–¾
+
+—pÝŽg—pŠY‰¹Œ¹ŽžC•s“¾—Lˆá”½–@—¥AŠëŠQ–Ô—ˆÀ‘Sˆ½‘¹ŠQ‘æŽO•û‡–@žÜ‰v”Vsˆ×C”Û‘¥—RŸ¶“IŒã‰Ê‹Ï—R—pŽ©ŒÈ³^B
+
+
+
+—üŒn•ûŽ®FKarandoxese@outlook.comA399783956@qq.com
+
+Š´ŽÓŽg—p
 
 ==========================
 
 Update:
-1.0.1 é·¿å£›Unvoiced Consonantå¦Ÿå¥œæ›˜å£’ä¸Ÿ
+1.0.1 ú‰ÁUnvoiced ConsonantŠzŠO•ã‰¹G
 
-1.0.2 å§°æ…žE4å£’å¥’å¹„å£’åš“é†¨ä¸†å§³å£’æŽ™æ®‘æª¤æ£Ÿä¸…
+1.0.2 Š®‘PE4‰¹ŠKá¢‰¹àêárC’êš„™|—B
