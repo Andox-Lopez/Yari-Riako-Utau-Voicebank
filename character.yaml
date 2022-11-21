@@ -1,0 +1,20 @@
+﻿text_file_encoding: gb2312
+portrait: Yari Riako.png
+portrait_opacity: 0.67000001668930054
+default_phonemizer: OpenUtau.Plugin.Builtin.JapaneseCVVCPhonemizer
+subbanks:
+- color: ''
+  prefix: G4_
+  suffix: ''
+  tone_ranges:
+  - G4-B7
+- color: ''
+  prefix: F4_
+  suffix: ''
+  tone_ranges:
+  - D#4-F#4
+- color: ''
+  prefix: E4_
+  suffix: ''
+  tone_ranges:
+  - C1-D4

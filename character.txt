@@ -1,0 +1,7 @@
+name=Yari Riako
+author=Karandox/нчочтб
+image=head.png
+sample=
+version=CVVCJPN_1.0
+voice=CyberGaryBread
+web=https://github.com/Andox-Lopez/Yari-Riako-Utau-Voicebank
