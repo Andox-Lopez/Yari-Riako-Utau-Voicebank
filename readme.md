@@ -2,6 +2,11 @@ UTAU CVVCJPN VoiceBank
 
 Copyright c 2022 KarashP&CyberGaryBread.All rights reserved.
 
+
+[![正常大小的矩形](https://img.shields.io/badge/Download-VoiceBank-blue.svg?style=flat-square)](https://github.com/Andox-Lopez/Yari-Riako-Utau-Voicebank/releases/)
+
+<img src=https://github.com/Andox-Lopez/Yari-Riako-Utau-Voicebank/blob/pic/Yari%20Riako%20with%20bg.png widgh="150px">
+
 · 本声库编码为GB2312，如需UTAU使用请自行使用菲菲更名宝贝™进行文件编码及oto.ini文件编码转换，或下载For Utau包
 
 · 音高标记对应音高请参照character.yaml
@@ -55,14 +60,16 @@ VB种类：CVVCJPN
 
 
 最后如果不能接受以上条款，原作者（KarashP、CyberGaryBread）有权无条件停止Yari Riako的使用权.
-
-免责声明
+ 
+ 
+ 
+ 
+ 
+![svg](https://img.shields.io/badge/免责声明-！-red.svg?style=flat-square)
 
 用在使用该音源时，不得有违反法律、危害网络安全或损害第三方合法权益之行为，否则由此生的后果均由用自己承担。
 
-download：https://github.com/Andox-Lopez/Yari-Riako-Utau-Voicebank/releases
-
-联系方式：Karandoxese@outlook.com、399783956@qq.com
+联系方式：Karandoxese@outlook.com、399783956@qq.com 或[添加官方交流群](https://jq.qq.com/?_wv=1027&k=ssqcbYip)
 
 感谢使用
 
