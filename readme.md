@@ -24,7 +24,7 @@ Copyright c 2022 KarashP&CyberGaryBread.All rights reserved.
 
 VB种类：CVVCJPN
 
-音阶数：1音阶
+音阶数：3音阶
 
 中之人：CyberGaryBread
 
