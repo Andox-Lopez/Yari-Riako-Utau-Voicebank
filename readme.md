@@ -5,7 +5,7 @@ Copyright c 2022 KarashP&CyberGaryBread.All rights reserved.
 
 [![正常大小的矩形](https://img.shields.io/badge/Download-VoiceBank-blue.svg?style=flat-square)](https://github.com/Andox-Lopez/Yari-Riako-Utau-Voicebank/releases/)
 
-<img src=https://github.com/Andox-Lopez/Yari-Riako-Utau-Voicebank/blob/pic/Yari%20Riako%20with%20bg.png widgh="150px">
+<img src=https://user-images.githubusercontent.com/113027536/205390975-b0e4a0bc-fcc0-4388-a90e-d3e6778fbe4b.png widgh="150px">
 
 · 本声库编码为GB2312，如需UTAU使用请自行使用菲菲更名宝贝™进行文件编码及oto.ini文件编码转换，或下载For Utau包
 
