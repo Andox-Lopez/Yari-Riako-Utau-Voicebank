@@ -65,7 +65,7 @@ VB种类：CVVCJPN
  
  
  
-![svg](https://img.shields.io/badge/免责声明-！-red.svg?style=flat-square)
+![svg](https://img.shields.io/badge/免责声明-！！！-red.svg?style=flat-square)
 
 用在使用该音源时，不得有违反法律、危害网络安全或损害第三方合法权益之行为，否则由此生的后果均由用自己承担。
 
@@ -80,3 +80,5 @@ Update:
 1.0.1 增加Unvoiced Consonant额外辅音；
 
 1.0.2 完善E4音阶发音瑕疵，干音底噪处理。
+
+1.0.3 设定监修完成并封装1.0.0βfor deepvocal包
